@@ -11,7 +11,7 @@ This Program helps you to generate a Report over the amount of words in a book p
 2. Adjust main function `print_report("<Path_to_your_Book>")`
 3. Execute the main.py via terminal `python3 main.py`
 
-## Example Report Frankenstein by Mary Shelley
+## Example report Frankenstein by Mary Shelley
 ~~~
 --- Begin report of books/frankenstein.txt ---
  77986 words found in the document
